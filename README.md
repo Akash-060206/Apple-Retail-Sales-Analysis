@@ -188,7 +188,5 @@ It combines **business problem-solving, advanced SQL, analytical thinking, and q
 
 ### **Akash Srivastava**
 
-**Data Analytics | SQL | Power BI**
-
 ⭐ If you found this project useful, consider giving the repository a star!
 
